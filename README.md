@@ -68,11 +68,6 @@ Here is the project pattern:
 	    - pyRisk.ipynb 
 ```
 
-<a id="section05"></a> 
-## Features 
-<p align="center"><a href="https://github.com/lprtk/lprtk">My profil</a> • 
-<a href="https://github.com/lprtk/lprtk">My GitHub</a></p> 
+</br>
+This project is derived from an MIT-licensed repository with extensive modifications. See /legacy_reference for original references.
 
-<p>
-“This project is derived from an MIT-licensed repository with extensive modifications. See /legacy_reference for original references.”
-</p>
